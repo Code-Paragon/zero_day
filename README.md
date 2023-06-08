@@ -1,1 +1,1 @@
-*This file is mandatory in projects*
+Learning to use virtual machines!
